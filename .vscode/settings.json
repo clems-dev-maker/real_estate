@@ -1,0 +1,9 @@
+{
+    "django.snippets.exclude": [
+        
+
+        "cms",
+        "wagtail"
+    ],
+    "django.snippets.use": true
+}
